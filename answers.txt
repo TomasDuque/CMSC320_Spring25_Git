@@ -26,4 +26,9 @@ instead of the original branches you have. I have not used this but I would use 
 if I wanted to have a more organized history when trying to look through old committs. 
 
 
+Q4: What are you looking forward to this semester?
 
+Answer: I feel like this class is very funcational and has a lot of 
+applications to real world problems. I am looking forward to taking
+what I learn from this class and being able to apply it to my
+own projects in the future!
