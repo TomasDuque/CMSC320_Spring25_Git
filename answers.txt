@@ -5,3 +5,12 @@ compressing code very straightforward and functional
 while also providing security features. 
 
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the transportation field.
+An example is that when you get on the metro and you swipe your card 
+it could track the time from when you entered the metro system to when you
+exit the metro system to calculate the average travel time of users.
+This information could be used for various reasons such as marketing
+and how to imnprove travel for consumers. 
+
