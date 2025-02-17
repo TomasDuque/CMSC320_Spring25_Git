@@ -14,3 +14,16 @@ exit the metro system to calculate the average travel time of users.
 This information could be used for various reasons such as marketing
 and how to imnprove travel for consumers. 
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is when you combine two branches from your repository
+I've usen this when I have a seperate branch where I am trying 
+to integrate new features without trying to affect an old branch. Then I can merge them
+you are ready to integrate the new code. Into the existing files
+Rebasing is when you have a new set of branches you want to use 
+instead of the original branches you have. I have not used this but I would use it 
+if I wanted to have a more organized history when trying to look through old committs. 
+
+
+
